@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">FishPond</router-link> |
-      <router-link to="/about">Add Fish</router-link>
+      <router-link to="/about">Add Fish</router-link> |
+      <router-link to="/user">User</router-link>
     </div>
     <router-view/>
   </div>
